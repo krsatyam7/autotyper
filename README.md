@@ -1,0 +1,4 @@
+# autotyper
+
+
+readme in building
