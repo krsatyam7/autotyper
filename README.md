@@ -1,6 +1,6 @@
 # Download Autotyper setup by clicking on download button below 
 <p align="center">
-	<a href="https://sourceforge.net/projects/autotyperr/files/latest/download"><img src="https://a.fsdn.com/con/app/sf-download-button"</a>
+	<a href="https://sourceforge.net/p/autotyperr/code/ci/main/tree/Autotyper%20setup.exe?format=raw"><img src="https://a.fsdn.com/con/app/sf-download-button"</a>
 </p>
 
 # How to Use it?
