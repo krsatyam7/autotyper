@@ -5,5 +5,5 @@
 
 # How to Use it?
 <p align="center">
-	<img src="https://github.com/krsatyam7/autotyper/blob/main/res/HowToUse.gif" alt="How to use Autotyper?" width="854" height="480"> 
+	<img src="https://github.com/krsatyam7/autotyper/blob/main/res/HowToUse.gif" alt="How to use Autotyper?" width="426" height="150"> 
 </p>
