@@ -12,7 +12,7 @@
 ## For Windows Users 
 
 
-Step 0: Make sure  Python is installed, If not [Click here](https://www.python.org/downloads/)
+Step 0 : Make sure  Python is installed, If not [Click here](https://www.python.org/downloads/)
 
 Step 1 : Make sure You have Installed Git, If not just type  ```winget install --id Git.Git -e --source winget``` in cmd and hit enter.
 
@@ -20,11 +20,16 @@ Step 2 : Clone repo by typing  ```git clone https://github.com/krsatyam7/autotyp
 
 Step 3 : Now type ```pip install -r requirements.txt``` in cmd and hit enter.
 
-Step 4 : Then type below command in cmd and hit enter.
+Step 4 : Now type ```cd autotyper``` in cmd and hit enter.
+
+Step 5 : Then type below command in cmd and hit enter.
 
 ```python autotyper.py```
 
-<b>Note: Windows user may directly download exe file and use it. But above commands are useful when system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
+👉 &nbsp; <i> Once you have done all above steps then from next time onwards just repeat Step 4 & Step 5. </i>
+
+<br>
+<b>Note: Windows users may directly download exe file and use it. But the above commands are useful when the system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
 
 <br>
 
