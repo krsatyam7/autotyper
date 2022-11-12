@@ -28,7 +28,7 @@ Step 5 : Then type below command in cmd and hit enter.
 
 ```python autotyper.py```
 
-👉 &nbsp; <i> Once you have done all above steps then from next time onwards just repeat Step 4 & Step 5. </i>
+👉 &nbsp; <i> Once you have done all above steps then from next time onwards just repeat Step 3 & Step 5. </i>
 
 <br>
 <b>Note: Windows users may directly download exe file and use it. But the above commands are useful when the system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
