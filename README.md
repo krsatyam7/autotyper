@@ -26,7 +26,7 @@ Step 4 : Now type ```pip install -r requirements.txt``` in cmd and hit enter.
 
 Step 5 : Then type below command in cmd and hit enter.
 
-```python autotyper.py```
+```python autotyper.pyc```
 
 👉 &nbsp; <i> Once you have done all above steps then from next time onwards just repeat Step 3 & Step 5. </i>
 
