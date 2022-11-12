@@ -18,9 +18,11 @@ Step 1 : Make sure You have Installed Git, If not just type  ```winget install -
 
 Step 2 : Clone repo by typing  ```git clone https://github.com/krsatyam7/autotyper.git``` in cmd and hit enter.
 
-Step 3 : Now type ```pip install -r requirements.txt``` in cmd and hit enter.
 
-Step 4 : Now type ```cd autotyper``` in cmd and hit enter.
+Step 3 : Now type ```cd autotyper``` in cmd and hit enter.
+
+Step 4 : Now type ```pip install -r requirements.txt``` in cmd and hit enter.
+
 
 Step 5 : Then type below command in cmd and hit enter.
 
