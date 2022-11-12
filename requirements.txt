@@ -1,6 +1,6 @@
 pynput
 tk
 times 
-pycopy-webbrowser
 keyboard
 pathlib
+pycopy-webbrowser
