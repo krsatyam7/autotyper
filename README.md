@@ -12,9 +12,9 @@
 ## For Windows Users 
 
 
-Step 0 : Make sure  Python is installed, If not [Click here](https://www.python.org/downloads/)
+Step 0 : Make sure  Python is installed, If not <b>[Click here](https://www.python.org/downloads/)</b>
 
-Step 1 : Make sure You have Installed Git, If not just type  ```winget install --id Git.Git -e --source winget``` in cmd and hit enter.
+Step 1 : Make sure You have Installed Git, If not just type  ```winget install --id Git.Git -e --source winget``` in cmd and hit enter. or <b>[Click Here](https://git-scm.com/download/win)</b>
 
 Step 2 : Clone repo by typing  ```git clone https://github.com/krsatyam7/autotyper.git``` in cmd and hit enter.
 
