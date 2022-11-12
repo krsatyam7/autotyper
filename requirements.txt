@@ -1,0 +1,6 @@
+pynput
+tk
+times 
+pycopy-webbrowser
+keyboard
+pathlib
