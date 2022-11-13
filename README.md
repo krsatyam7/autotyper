@@ -21,7 +21,7 @@ Step 2 : Clone repo by typing  ```git clone https://github.com/krsatyam7/autotyp
 
 Step 3 : Now type ```cd autotyper``` in cmd and hit enter.
 
-Step 4 : Now type ```pip install -r requirements.txt``` in cmd and hit enter.
+Step 4 : Now type ```pip install -r requirements.txt``` or ```pip install pynput tk times keyboard``` in cmd and hit enter.
 
 
 Step 5 : Then type below command in cmd and hit enter.
