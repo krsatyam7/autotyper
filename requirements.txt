@@ -3,4 +3,3 @@ tk
 times 
 keyboard
 pathlib
-pycopy-webbrowser
