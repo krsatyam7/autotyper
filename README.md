@@ -34,6 +34,12 @@ Step 5 : Then type below command in cmd and hit enter.
 <b>Note: Windows users may directly download exe file and use it. But the above commands are useful when the system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
 
 <br>
+<br>
+<br>
+<br>
+
+<details closed>
+<summary> <b> <a> For tutorial (click me) </b> </summary>
 
 ## How to Use it?
 <p align="center">
@@ -43,3 +49,5 @@ Step 5 : Then type below command in cmd and hit enter.
 <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kindly use desktop mode.</b>
 
 <br>
+
+</details>
