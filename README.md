@@ -10,7 +10,7 @@
 | Version  | Features added  |  Screenshots | Download Link  | Mirror	 Link  |
 |:-:|:-:|:-:|:-:|:-:|
 | Autotyper v1.0.2   | Removed admin. rights  |   | [Download](https://sourceforge.net/projects/autotyperr/files/Autotyper.exe/download)  |  [Download](https://github.com/krsatyam7/autotyper/releases/download/v1.0.2/Autotyper_v1.0.2.exe)|
-| Autotyper v1.0.1  |  First release |   | [Download](https://sourceforge.net/projects/autotyperr/files/application/Autotyper%20setup.exe/download)  | [Download](https://www.mediafire.com/file/j2129b26ohtvjnq/Autotyper_v1.0.1.exe/file)  |
+| Autotyper v1.0.1  |  First release | [Screenshots](https://telegra.ph/Autotyper-V101-12-25)  | [Download](https://sourceforge.net/projects/autotyperr/files/application/Autotyper%20setup.exe/download)  | [Download](https://www.mediafire.com/file/j2129b26ohtvjnq/Autotyper_v1.0.1.exe/file)  |
 
 </div> 
 
