@@ -1,6 +1,6 @@
 ## Download Links
 <br>
-<p align = "center"><b> Download Latest Release &nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; </b><a href = "https://sourceforge.net/projects/autotyperr/files/Autotyper.exe/download"> <img src = "https://user-images.githubusercontent.com/110342305/201322080-710f242d-28d7-47ec-9961-61f7366d84c4.png" width ="13%">
+<p align = "center"><b> Download Latest Release &nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; </b><a href = "https://sourceforge.net/projects/autotyperr/files/latest/download"> <img src = "https://user-images.githubusercontent.com/110342305/201322080-710f242d-28d7-47ec-9961-61f7366d84c4.png" width ="13%">
 
 <br>
 <br>
@@ -9,6 +9,7 @@
 
 | Version  | Features added  |  Screenshots | Download Link  | Mirror	 Link  |
 |:-:|:-:|:-:|:-:|:-:|
+| Autotyper v1.1.0  | New UI & Hotkeys  |  [Screenshots](https://medium.com/@weshow29/autotyper-v1-1-0-7d7c63858a65) | [Download](https://sourceforge.net/projects/autotyperr/files/v1.1.0/Autotyper_1.1.0.exe/download)  | [Download](https://github.com/krsatyam7/autotyper/releases/download/v1.1.0/Autotyper_1.1.0.exe)  |
 | Autotyper v1.0.2   | Removed admin. rights  |  [Screenshots](https://medium.com/@weshow29/autotyper-v1-0-2-3ef162148141) | [Download](https://sourceforge.net/projects/autotyperr/files/Autotyper.exe/download)  |  [Download](https://github.com/krsatyam7/autotyper/releases/download/v1.0.2/Autotyper_v1.0.2.exe)|
 | Autotyper v1.0.1  |  First release | [Screenshots](https://medium.com/@weshow29/autotyper-v1-0-1-45d13bf83282)  | [Download](https://sourceforge.net/projects/autotyperr/files/application/Autotyper%20setup.exe/download)  | [Download](https://www.mediafire.com/file/j2129b26ohtvjnq/Autotyper_v1.0.1.exe/file)  |
 
