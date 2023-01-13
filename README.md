@@ -5,6 +5,9 @@
 <br>
 <br>
 
+
+
+
 <div align = "center">
 
 | Version  | Features added  |  Screenshots | Download Link  | Mirror	 Link  |
@@ -19,6 +22,12 @@
 
 <br>
 
+> ### Note : Hotkeys have been changed.
+>
+>  - Ctrl + Shift + Spacebar = Single Line Typing 
+>  - Ctrl + Spacebar = Multi Line Typing
+
+<br>
 
 ## For Windows Users 
 
