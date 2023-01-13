@@ -22,7 +22,11 @@
 
 <br>
 
-> ### Note : Hotkeys have been changed.
+![result (3) (1)](https://user-images.githubusercontent.com/110342305/212345109-d4a85ebc-d11d-4afd-af24-ab45d805d290.gif)
+
+<br>
+
+> ### Hotkeys have been changed.
 >
 >  - Ctrl + Shift + Spacebar = Single Line Typing 
 >  - Ctrl + Spacebar = Multi Line Typing
