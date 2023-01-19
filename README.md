@@ -79,7 +79,9 @@ Step 4 : Then type below command in cmd and hit enter.
 👉 &nbsp; <b> From next time onwards just open autotyper folder launch ```mactyper.py``` and run it. </b>
 	
 <br>
-	
+<p align="center">
+<img width="50%" alt="MacOS Screenshot" src="https://user-images.githubusercontent.com/110342305/213472892-e91216c8-1497-4f07-8778-44c796001e9f.png">
+</p>
 <b> Note: There is no hotkeys support and no executable file for macOS as of now. Use autotyper with GUI buttons.</b> 
 	
 <br>
