@@ -57,6 +57,10 @@ Step 5 : Then type below command in cmd and hit enter.
 <br>
 <b>Note: Windows users may directly download exe file and use it. But the above commands are useful when the system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
 
+
+<br>
+<br>	
+
 ## For MacOS users 
 
 Step 0 : Make sure  Python is installed, If not <b>[Click here](https://www.python.org/downloads/)</b>
