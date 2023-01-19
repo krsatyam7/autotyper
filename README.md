@@ -33,7 +33,7 @@
 
 <br>
 
-## For Windows Users 
+## For Windows users ⌘
 
 
 Step 0 : Make sure  Python is installed, If not <b>[Click here](https://www.python.org/downloads/)</b>
@@ -50,13 +50,34 @@ Step 4 : Now type ```pip install -r requirements.txt``` or ```pip install pynput
 
 Step 5 : Then type below command in cmd and hit enter.
 
-```python autotyper.py```
+		python autotyper.py
 
-👉 &nbsp; <i> Once you have done all above steps then from next time onwards just repeat Step 3 & Step 5. </i>
+👉 &nbsp; <b> Once you have done all above steps then from next time onwards just repeat Step 3 & Step 5. </b>
 
 <br>
 <b>Note: Windows users may directly download exe file and use it. But the above commands are useful when the system doesn't have access to ADMINISTRATOR access (like in schools/colleges).</b>
 
+## For MacOS users 
+
+Step 0 : Make sure  Python is installed, If not <b>[Click here](https://www.python.org/downloads/)</b>
+
+Step 1 : Download this repository as ```.zip``` and extract it. 
+	
+Step 2 : Navigate to extracted folder and [launch terminal in current folder](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
+	
+Step 3 : Now type ```pip install -r requirements.txt``` or ```pip install pynput tk times keyboard``` in cmd and hit enter.
+
+Step 4 : Then type below command in cmd and hit enter.
+
+		python mactyper.py
+
+
+👉 &nbsp; <b> From next time onwards just open autotyper folder launch ```mactyper.py``` and run it. </b>
+	
+<br>
+	
+<b> Note: There is no hotkeys support and no executable file for macOS as of now. Use autotyper with GUI buttons.</b> 
+	
 <br>
 <br>
 <br>
