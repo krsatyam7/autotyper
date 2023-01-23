@@ -69,7 +69,7 @@ Step 1 : Download this repository as ```.zip``` and extract it.
 	
 Step 2 : Navigate to extracted folder and [launch terminal in current folder](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
 	
-Step 3 : Now type ```pip install -r requirements.txt``` or ```pip install pynput tk times keyboard``` in cmd and hit enter.
+Step 3 : Now type ```pip3 install -r requirements.txt``` or ```pip3 install pynput tk times keyboard``` in cmd and hit enter.
 
 Step 4 : Then type below command in cmd and hit enter.
 
@@ -82,7 +82,8 @@ Step 4 : Then type below command in cmd and hit enter.
 <p align="center">
 <img width="50%" alt="MacOS Screenshot" src="https://user-images.githubusercontent.com/110342305/213472892-e91216c8-1497-4f07-8778-44c796001e9f.png">
 </p>
-<b> Note: There is no hotkeys support and no executable file for macOS as of now. Use autotyper with GUI buttons.</b> 
+
+***Note:*** There is no hotkeys support and no executable file for macOS as of now. Use autotyper with GUI buttons. And must allow  ***Accessibility Access***  to python (pop up will appear only for the first time). 
 	
 <br>
 <br>
