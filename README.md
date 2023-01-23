@@ -2,7 +2,7 @@
 <br>
 <p align = "center"><b> Windows Latest Release  &nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; </b><a href = "https://sourceforge.net/projects/autotyperr/files/latest/download"> <img src = "https://user-images.githubusercontent.com/110342305/201322080-710f242d-28d7-47ec-9961-61f7366d84c4.png" width ="13%">
 	
-<p align = "center"><b> MacOS users   &nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; </b><a href = "https://github.com/krsatyam7/autotyper/blob/main/README.md#:~:text=For%20MacOS%20users,and%20run%20it."> <img src = "https://user-images.githubusercontent.com/110342305/213478220-bc71a734-62ee-4a38-8013-d720d20c1c6e.png" width ="6%">
+<p align = "center"><b>MacOS users   &nbsp; → &nbsp;&nbsp;&nbsp;&nbsp; </b><a href = "https://github.com/krsatyam7/autotyper/blob/main/README.md#:~:text=For%20MacOS%20users,and%20run%20it."> <img src = "https://user-images.githubusercontent.com/110342305/213478220-bc71a734-62ee-4a38-8013-d720d20c1c6e.png" width ="6%">
 <br>
 <br>
 
@@ -61,7 +61,10 @@ Step 5 : Then type below command in cmd and hit enter.
 <br>
 <br>	
 
-## For MacOS users 
+## For MacOS users  ![apple](https://user-images.githubusercontent.com/110342305/214121944-258831f1-bdb5-4918-bf5a-f1bbceb63865.png)
+
+
+
 
 Step 0 : Make sure  Python is installed, If not <b>[Click here](https://www.python.org/downloads/)</b>
 
